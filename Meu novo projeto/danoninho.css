@@ -1,0 +1,131 @@
+body{
+    background-color: pink;
+}
+
+nav{
+    position: absolute;
+}
+
+nav li{
+    display: inline;
+}
+
+nav a{
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 30px;
+    font-style: oblique;
+    padding: 20px;
+    text-transform: uppercase;
+    color: black;
+}
+
+nav a:hover{
+    color: purple;
+    font-size: 35px;
+}
+
+.tema{
+    text-align: center;
+    padding-top: 100px;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 80px;
+}
+
+#danone{
+    display: inline-block;
+    width: 50%;
+    height: 50%;
+}
+
+#receita{
+    position: absolute;
+    top: 260px;
+    right: 270px;
+    font-size: 50px;
+    font-style: oblique;
+}
+
+.div-um{
+    position: absolute;
+    font-size: 25px;
+    font-style: oblique;
+    top: 350px;
+    right: 200px;
+    padding-top: 30px;
+}
+
+#preparo{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 40px;
+    font-style: oblique;
+}
+
+#modo{
+    font-size: 25px;
+    font-style: oblique;
+    padding-bottom: 100px;
+}
+#gelatina{
+    display: inline-block;
+    width: 50%;
+    height: 50%;
+}
+
+#receitadois{
+    position: absolute;
+    top: 1050px;
+    right: 250px;
+    font-size: 50px;
+    font-style: oblique;
+}
+
+.div-dois{
+    position: absolute;
+    font-size: 25px;
+    font-style: oblique;
+    top: 1200px;
+    right: 280px;
+    padding-top: 30px;
+    
+}
+
+#ingrediente-dois{
+    position: absolute;
+    font-size: 25px;
+    font-style: oblique;
+    top: 1080px;
+    right: 200px;
+   
+}
+
+#preparoDois{
+    text-align: center;
+    padding-top: 130px;
+    font-size: 40px;
+    font-style: oblique;
+}
+
+#modoDois{
+    font-size: 25px;
+    font-style: oblique;
+    padding-bottom: 100px;
+}
+
+footer{
+    text-align: center;
+    font-size: 40px;
+    font-style: oblique;
+
+}
+
+footer a{
+    text-decoration: none;
+}
+
+footer a:hover{
+    color: purple;
+    font-size: 45px;
+}

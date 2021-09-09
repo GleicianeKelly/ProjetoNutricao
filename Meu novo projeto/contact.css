@@ -1,0 +1,67 @@
+body{
+    background-color:  pink;
+}
+
+nav{
+    position: absolute;
+    font-style: oblique;
+}
+
+nav li{
+    display: inline;
+}
+
+nav a{
+    text-decoration: none;
+    padding: 20px;
+    font-size: 30px;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bolder;
+    
+}
+
+nav a:hover{
+    color: magenta;
+    font-size: 35px;
+}
+
+#frase{
+    padding: 20px;
+    padding-top: 80px;
+    text-align: center;
+    font-size: 50px;
+    font-style: oblique;
+}
+
+#imagem{
+    display: inline-block;
+    text-align: center;
+}
+
+div{
+    position: absolute;
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: bolder;
+    top: 270px;
+    right: 130px;
+    padding: 10px ;
+}
+
+#agradecimento{
+    text-align: center;
+    padding-top: 250px;
+    font-style: oblique;
+    font-size: 70px;
+}
+
+footer{
+    padding-top: 400px;
+       
+}
+#img{
+    width: 100%;
+    
+    
+}

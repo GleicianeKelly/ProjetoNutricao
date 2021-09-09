@@ -1,0 +1,122 @@
+body{
+    background-color: rgb(245, 168, 182);
+}
+
+
+
+#h1{
+
+background-color: rgb(247, 208, 215);
+padding: 30px;
+
+}
+
+
+.logo{
+    height: 100%;
+    width: 30;
+    
+}
+
+.imagemUm{
+    width: 20%;
+    height: 10%;
+    padding-left: 5px;
+}
+
+.h2{
+    position: absolute;
+    top: 120px;
+    right: 350px;
+    font-size: 60px;
+    font-style: oblique;
+}
+
+.h3{
+    position: absolute;
+    top: 210px;
+    right: 550px;
+    font-size: 30px;
+    font-style: oblique;
+}
+
+
+nav{
+    position: absolute;
+    top: 370px;
+    right: 80px;
+    font-style: oblique;
+  
+}
+
+nav a:hover{
+    color: magenta;
+    font-size: 35px;
+}
+
+
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+
+}
+nav  a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: none ;
+}
+
+.receitas li{
+    margin-top: 70px;
+    text-decoration:none;
+    display: inline-block;
+    text-align: center;
+    width: 25%;
+    vertical-align: top;
+    border: 4px solid black;
+    border-radius: 10px;
+    margin-left: 60px;
+}
+.receitas li:hover{
+    border-color: purple;
+}
+
+.sobremesas{
+    font-size: 40px;
+    font-style: oblique;
+}
+
+.sobremesas:hover{
+    color: rgb(202, 17, 147);
+    font-size: 45px ;
+}
+.imagens{
+    padding-bottom: 20px;
+}
+.clique{
+    font-size: 33px;
+    text-decoration:none;
+    font-weight: bolder;
+    color: black;
+    
+}
+.clique:hover{
+    color: rgb(202, 17, 147);
+    font-size: 38px;
+}
+.frase-final{
+    text-align: center;
+    padding-top: 5%;
+    font-size: 40px;
+    font-style:oblique;
+    color: rgb(112, 11, 112);
+}
+.copyright{
+    padding-top: 50px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(209, 155, 197);;
+}

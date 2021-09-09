@@ -1,0 +1,48 @@
+nav{
+    position: absolute;
+    font-style: oblique;
+    
+    
+}
+
+nav li{
+    display: inline;
+    
+}
+
+nav  a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: none ;
+    padding-left: 20px;
+}
+
+nav a:hover{
+    color: magenta;
+    font-size: 35px;
+}
+
+body{
+    background-color: pink ;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 35px;
+    font-style: oblique;
+}
+
+
+.Lista-dicas{
+    padding-top: 180px;
+}
+
+.dicas{
+    
+    text-align: left;
+    font-size: 40px;
+}
+
+#frases{
+    text-align: left;
+}
